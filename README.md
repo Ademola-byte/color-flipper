@@ -1,2 +1,2 @@
-# color-flipper
-this is my first work at century information syatems
+# Color-flipper
+This is my first work at century information systems
